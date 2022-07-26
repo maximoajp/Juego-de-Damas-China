@@ -1,0 +1,80 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	padding-left:5%;
+	padding-top:50px;
+}
+
+.col{
+	display:inline-block;
+	width:820px;
+	margin-top:-4px;
+	
+}
+
+.area{
+	float:left;
+	width:100px;
+	height:100px;
+	background-color:#ccc;
+	border:thin solid #333;
+	
+}
+
+.ficha-r{
+	width:99px;
+	height:99px;
+	background-color:#F00;
+	border:thin solid #900;
+	border-radius:50%;
+	opacity:1;
+}
+
+.ficha-a{
+	width:99px;
+	height:99px;
+	background-color:#03F;
+	border:thin solid #00F;
+	border-radius:50%;
+	opacity:1;
+}
+
+.ficha-v{
+	width:99px;
+	height:99px;
+	background-color:#03F;
+	border:thin solid #00F;
+	opacity:0.2;
+}
+
+.ficha-activa{
+	opacity:0.5
+}
+
+.mov_dis{
+	background-color:#FF0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
